@@ -1,0 +1,13 @@
+{
+    "name": "jsuggs/schema-issue",
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "require": {
+        "doctrine/dbal": "2.5.*@dev",
+        "doctrine/orm": "2.5.*@dev"
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}
